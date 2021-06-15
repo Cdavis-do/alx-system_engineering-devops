@@ -1,0 +1,1 @@
+command scripts for variables expansions
