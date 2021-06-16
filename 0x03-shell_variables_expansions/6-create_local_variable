@@ -1,2 +1,2 @@
 #!/bin/bash
-STR="Holberton" | echo $BETTY
+BETTY="Holberton"
